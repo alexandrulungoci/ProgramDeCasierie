@@ -1,0 +1,26 @@
+
+á%squid:RedundantThrowsDeclarationCheck"¯Remove the declaration of thrown exception 'com.sdacademy.programcasierie.persistence.services.exception.CategoryNotFoundException', as it cannot be thrown from method's body.(úÊ¸é
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(‡›ùÿÿÿÿ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ˆää˜
+Wsquid:S3655(";Call "productModel.isPresent()" before accessing the value.(¹Ï°¯üÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ŒÑ¿ûÿÿÿÿ
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ªù·¯ƒ.
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ôƒ§‡øÿÿÿÿ
+ssquid:S1450"WRemove the "cantCart" field and declare it as a local variable in the relevant methods.(ÙÚİÔùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó–ÿêşÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ü›Œ¢
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(²ôà

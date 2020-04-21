@@ -1,0 +1,19 @@
+
+csquid:S00112("FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¨ØÎûÿÿÿÿ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(„¼ùüÿÿÿÿ
+gsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°
+Xsquid:S2118"AMake the "java.util.List" class "Serializable" or don't write it.(Šëƒ
+€squid:S1488!"dImmediately return this expression instead of assigning it to the temporary variable "objectToRead".(Ã‹€şÿÿÿÿ
+dsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Æ˜Ûò
+csquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…âô
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…âô
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(«§» øÿÿÿÿ
+ksquid:S2095 "OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(€ÌŒºøÿÿÿÿ
+^squid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(Æ˜Ûò
+]
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
